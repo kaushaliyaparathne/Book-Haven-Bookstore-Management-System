@@ -2,10 +2,11 @@
 
 ## 📌 Project Overview
 
-Book Haven is a Java-based Bookstore Management System developed using **Object-Oriented Programming (OOP)** concepts.  
-The system helps manage books, users, stock, sales, and customer transactions efficiently.
+Book Haven is a Java-based Bookstore Management System developed using Object-Oriented Programming (OOP) concepts.
 
-This project was developed as a desktop application using **Java Swing** with **MySQL database integration**.
+This system helps manage books, users, stock, and sales efficiently.
+
+The application is developed as a desktop application using Java Swing with MySQL database integration.
 
 ---
 
@@ -13,47 +14,70 @@ This project was developed as a desktop application using **Java Swing** with **
 
 ### 🔐 Login System
 - Admin and User login
-- Secure username and password validation
+- Username and password validation
 - Role-based access control
 
-### 👥 User Management (Admin)
-- Add new users
-- Store user details in MySQL database
+### 👥 User Management
+- Add users
+- Update users
+- Delete users
 - Manage user roles
-- View user information
 
 ### 📚 Book Management
 - Add books
 - Update book details
 - Delete books
 - Search books
-- View available books
 
 ### 📦 Stock Management
-- Manage book stock
-- Update quantities
-- Check stock availability
+- Manage stock quantity
+- Check available books
 
 ### 💰 Sales Management
 - Manage customer purchases
-- Calculate total prices
-- Generate sales records
+- Calculate total price
+- Store sales records
 
 ---
 
 ## 🛠️ Technologies Used
 
 | Technology | Purpose |
-|------------|---------|
+|---|---|
 | Java | Application Development |
 | Java Swing | User Interface |
-| MySQL | Database Management |
-| JDBC | Database Connectivity |
-| NetBeans IDE | Development Environment |
+| MySQL | Database |
+| JDBC | Database Connection |
+| NetBeans | IDE |
 | GitHub | Version Control |
 
 ---
 
-## 🏗️ System Architecture
+## 📸 Screenshots
 
-The project follows an MVC (Model-View-Controller) structure.
+### Login Page
+(Add login screenshot here)
+
+### Dashboard
+(Add dashboard screenshot here)
+
+### Book Management
+(Add book management screenshot here)
+
+---
+
+## ⚙️ How to Run
+
+1. Install MySQL
+2. Create database
+3. Import database file
+4. Open project in NetBeans
+5. Run Main.java
+
+---
+
+## 👩‍💻 Developer
+
+Kaushali Yaparathne
+
+HNDIT - SLIATE
