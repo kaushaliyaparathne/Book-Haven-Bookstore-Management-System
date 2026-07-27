@@ -56,10 +56,12 @@ The application is developed as a desktop application using Java Swing with MySQ
 ## 📸 Screenshots
 
 ### Login Page
-(Add login screenshot here)
+<img width="522" height="472" alt="image" src="https://github.com/user-attachments/assets/f0582e5f-4a08-49aa-88a0-6512be55b1c2" />
 
-### Dashboard
-(Add dashboard screenshot here)
+
+###  Admin Dashboard
+<img width="854" height="779" alt="image" src="https://github.com/user-attachments/assets/c73a0393-2d6b-4ce7-b031-8d97a566ff15" />
+
 
 ### Book Management
 (Add book management screenshot here)
