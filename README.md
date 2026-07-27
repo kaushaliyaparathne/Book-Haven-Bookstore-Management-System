@@ -63,8 +63,9 @@ The application is developed as a desktop application using Java Swing with MySQ
 <img width="854" height="779" alt="image" src="https://github.com/user-attachments/assets/c73a0393-2d6b-4ce7-b031-8d97a566ff15" />
 
 
-### Book Management
-(Add book management screenshot here)
+### Cashier Dashboard
+<img width="852" height="768" alt="image" src="https://github.com/user-attachments/assets/41413b06-1112-4ae5-8ac8-ea4e4c5942c7" />
+
 
 ---
 
